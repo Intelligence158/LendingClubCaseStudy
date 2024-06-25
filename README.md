@@ -1,5 +1,5 @@
 # Project Name
-Project Name:Lending Club Case Study from Upgrad
+Project Name: Lending Club Case Study from Upgrad
 Submission by: Nilima Dani and Yesha DesaiDate: 25 Jun 2024
 
 Description:
